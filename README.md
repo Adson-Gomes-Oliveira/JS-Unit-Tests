@@ -40,7 +40,7 @@ Testes unitários de funções matemáticas realizados com jest.
 
 >Primeiro faça o clone deste repositório em sua maquina.
 ```
-git clone git@github.com:Adson-Gomes-Oliveira/Pixels-Art.git
+git clone Adson-Gomes-Oliveira/JS-Unit-Tests.git
 ```
 >Utilize o comando `npm install` para instalar as depêndencias necessárias.
 
